@@ -1,6 +1,7 @@
 # Hey, I'm [Mark!](http://www.vezcore.com/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>. My friends call me Shavez
 
 # 💫About Me :
+Just completed "Hands-On Introduction: PHP" on LinkedIn Learning.
 🔭 I’m currently working on my Skills.\
  🌱 I’m currently learning more about PHP.\
  🤔 I’m looking for help with Exploring New Technologies.\
