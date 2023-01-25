@@ -2,7 +2,8 @@
 
 # 💫About Me :
 Just completed [PHP: Test-Driven Development with PHPUnit](https://www.linkedin.com/learning/php-test-driven-development-with-phpunit/what-is-unit-testing)  on LinkedIn Learning.\
-🔭 I’m currently working on PHP Testing Jargon [PHP Testing Jargon](https://laracasts.com/series/php-testing-jargon) on Laracasts.\
+I paused working on PHP Testing Jargon [PHP Testing Jargon](https://laracasts.com/series/php-testing-jargon) on Laracasts.\
+🔭 I'm currently working on [Next JS Course for Beginners](https://www.udemy.com/course/next-js-course-for-beginners-2022-updated/) on Udemy.\
  🌱 I’m currently learning more about PHP.\
  🤔 I’m looking for help with Exploring New Technologies.\
  💬 Ask me about any tech-related stuff.\
